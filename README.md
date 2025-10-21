@@ -2,13 +2,13 @@
 
 #### Objetivo 
 
-*Este projeto é um guia passo a passo para criar seu primeiro chatbot conectado aos serviços de IA da Azure.*
+**Este projeto é um guia passo a passo para criar seu primeiro chatbot conectado aos serviços de IA da Azure.**
 
 O objetivo deste README é ser um guia simplificado, detalhando não apenas os passos de sucesso, mas também os erros mais comuns e como resolvê-los.
 
 Projeto original do curso de Azure Fundamentos, instrutor **Icaro de Jesus Gomes do Bonfim**
 
-🛠️ O que você vai precisar (Pré-requisitos)
+🛠️ **O que você vai precisar (Pré-requisitos)**
 - Uma conta do Microsoft Azure (pode ser a gratuita).
 - Python instalado na sua máquina.
 - Um editor de código (como o VS Code) com suporte a Jupyter Notebooks.
@@ -62,7 +62,7 @@ Projeto original do curso de Azure Fundamentos, instrutor **Icaro de Jesus Gomes
 
 **13. Escolha seu AI (eu escolhi gpt-4.1) e clique em confirme.**
 
-![passo 13](img/passo13-1.png)
+![passo 13](img/passo13.png)
 
 **14. Clique em 'Create resource and deploy'**
 

@@ -24,7 +24,7 @@ Projeto original do curso de Azure Fundamentos, instrutor **Icaro de Jesus Gomes
 
 3. Clique em Azure OpenAI
 
-4. Clique em criar e escolha a opção Azure AI Foundry
+4. Clique em criar e escolha a opção Azure OpenAI
 
 ![passo 4](img/passo4.png)
 
